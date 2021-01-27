@@ -1,5 +1,5 @@
 # Web-Dev-Libs-VueJS
-Libs and cheats VueJS
+Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento WEB utilizando o framework VueJS.
 
 ### Componentes estilizados
 - Vuetify - https://vuetifyjs.com/en;
