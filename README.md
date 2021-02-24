@@ -8,3 +8,6 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 ### Form Cheats
 - V-Mask - https://github.com/probil/v-mask (Máscara para campos input);
 - Vuelidate - https://vuelidate.js.org/#getting-started (Validador de campos);
+
+### Frameworks
+- NuxtJs - https://nuxtjs.org/
