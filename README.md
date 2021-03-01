@@ -11,3 +11,6 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 
 ### Frameworks
 - NuxtJs - https://nuxtjs.org/
+
+### Template dashboard
+- CoreUI - https://coreui.io/vue/
